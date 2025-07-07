@@ -1,1 +1,10 @@
+{
+    "clientID":"1342768827955548160",
+    "clientSecret":"QZ8FaHfseb-KVk85LZCz5MzJyUEaWmPa",
+    "callbackURL":"http://localhost:1337/login/callback",
+    "Admin":["1157630773294268507"],
+    "token":"MTM0Mjc2ODgyNzk1NTU0ODE2MA.GHiHbT.scVe_1oEL5bcCeaa0XV547B43nsdsA1CPzWny0",
+    "prefix":"/",
+    "port":"1337"
+}
 
